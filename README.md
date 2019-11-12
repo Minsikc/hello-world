@@ -1,2 +1,4 @@
 # hello-world
-practicig git
+practicing git
+
+studying how to use git
